@@ -1,0 +1,13 @@
+{
+  "frequency": 1,
+  "day_number": 2,
+  "max_day": 7,
+  "city_count": 3,
+  "city_list": [
+    "Moscow",
+    "Berlin",
+    "Samara"
+  ],
+  "start_day": "2024-05-08",
+  "end_day": "2024-05-14"
+}
